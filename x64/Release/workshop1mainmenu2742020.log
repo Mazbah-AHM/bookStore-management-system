@@ -1,0 +1,8 @@
+﻿  workshop1mainmenu2742020.cpp
+D:\00Ulearn\Semester 3\WORKSHOP 1\workshop1mainmenu2742020\workshop1mainmenu2742020.cpp(365,10): warning C4101: 'purchase': unreferenced local variable
+D:\00Ulearn\Semester 3\WORKSHOP 1\workshop1mainmenu2742020\workshop1mainmenu2742020.cpp(356,10): warning C4101: 'choose': unreferenced local variable
+D:\00Ulearn\Semester 3\WORKSHOP 1\workshop1mainmenu2742020\workshop1mainmenu2742020.cpp(405,10): warning C4101: 'ch': unreferenced local variable
+D:\00Ulearn\Semester 3\WORKSHOP 1\workshop1mainmenu2742020\workshop1mainmenu2742020.cpp(586,23): error C2440: 'initializing': cannot convert from 'const char [1]' to 'int'
+D:\00Ulearn\Semester 3\WORKSHOP 1\workshop1mainmenu2742020\workshop1mainmenu2742020.cpp(586,19): message : There is no context in which this conversion is possible
+D:\00Ulearn\Semester 3\WORKSHOP 1\workshop1mainmenu2742020\workshop1mainmenu2742020.cpp(636,43): error C2440: '=': cannot convert from 'char *' to 'int'
+D:\00Ulearn\Semester 3\WORKSHOP 1\workshop1mainmenu2742020\workshop1mainmenu2742020.cpp(636,42): message : There is no context in which this conversion is possible
